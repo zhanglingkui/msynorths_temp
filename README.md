@@ -1,0 +1,2 @@
+# msynorths
+detect synteny gene
